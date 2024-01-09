@@ -1,2 +1,2 @@
 # clone-tabnews
-treinamento do curso dev
+treinamento do curso dev (Filipe Deschamps)
